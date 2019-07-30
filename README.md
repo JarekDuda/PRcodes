@@ -17,7 +17,12 @@ I plan to add error correction using implementation from https://indect-project.
 If there will be an interest, I can also add dithering: for example first set even pixels with lower freedom, then diffuse their errors to odd pixels and set them with higher freedom.
 
 Preprint: http://arxiv.org/abs/1211.1572
-Slides: https://dl.dropboxusercontent.com/u/12405967/qrsem.pdf
-Here are compiled files and some examples of usage: https://dl.dropboxusercontent.com/u/12405967/PRcodes.zip
+
+Final 2015 paper: https://ieeexplore.ieee.org/document/7348695
+
+Slides: https://www.dropbox.com/s/bhgy55i1wt5dram/qrsem.pdf
+
+Here are compiled files and some examples of usage: https://www.dropbox.com/s/tjt1nwf1zsk3y7c/PRcodes.zip
 
 Jarek Duda, Feb 2014
+(2019: repaired links and added 2015 paper)
